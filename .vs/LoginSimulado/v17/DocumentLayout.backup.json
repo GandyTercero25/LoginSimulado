@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|c:\\users\\noper\\source\\repos\\loginsimulado\\src\\pages\\perfil.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|solutionrelative:src\\pages\\perfil.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|c:\\users\\noper\\source\\repos\\loginsimulado\\src\\routes\\rutaprotegida.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|solutionrelative:src\\routes\\rutaprotegida.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|c:\\users\\noper\\source\\repos\\loginsimulado\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|c:\\users\\noper\\source\\repos\\loginsimulado\\src\\components\\loginform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|solutionrelative:src\\components\\loginform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|c:\\users\\noper\\source\\repos\\loginsimulado\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|solutionrelative:src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|c:\\users\\noper\\source\\repos\\loginsimulado\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|c:\\users\\noper\\source\\repos\\loginsimulado\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|c:\\users\\noper\\source\\repos\\loginsimulado\\loginsimulado.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|solutionrelative:loginsimulado.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|c:\\users\\noper\\source\\repos\\loginsimulado\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|c:\\users\\noper\\source\\repos\\loginsimulado\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{306B1125-67BC-2252-AE8C-CF2D41DAEE90}|loginsimulado.esproj|solutionrelative:.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-23T02:05:22.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-23T02:04:29.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwBIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-23T01:56:53.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-23T01:56:52.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RutaProtegida.jsx",
+              "DocumentMoniker": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\routes\\RutaProtegida.jsx",
+              "RelativeDocumentMoniker": "src\\routes\\RutaProtegida.jsx",
+              "ToolTip": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\routes\\RutaProtegida.jsx*",
+              "RelativeToolTip": "src\\routes\\RutaProtegida.jsx*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-23T01:56:50.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perfil.jsx",
+              "DocumentMoniker": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\pages\\Perfil.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Perfil.jsx",
+              "ToolTip": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\pages\\Perfil.jsx*",
+              "RelativeToolTip": "src\\pages\\Perfil.jsx*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-23T01:56:49.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.jsx",
+              "DocumentMoniker": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\components\\LoginForm.jsx",
+              "RelativeDocumentMoniker": "src\\components\\LoginForm.jsx",
+              "ToolTip": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\src\\components\\LoginForm.jsx*",
+              "RelativeToolTip": "src\\components\\LoginForm.jsx*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-23T01:56:42.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "loginsimulado",
+              "DocumentMoniker": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\loginsimulado.esproj",
+              "RelativeDocumentMoniker": "loginsimulado.esproj",
+              "ToolTip": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\loginsimulado.esproj",
+              "RelativeToolTip": "loginsimulado.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-23T01:36:16.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-23T01:35:51.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": ".vscode\\launch.json",
+              "ToolTip": "C:\\Users\\noper\\source\\repos\\LoginSimulado\\.vscode\\launch.json",
+              "RelativeToolTip": ".vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T01:35:44.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
